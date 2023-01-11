@@ -9,4 +9,4 @@
 
 ## About me
 
-Hi, I'm Lisa. I am currently learning how to use GitHub.
+Hi, I'm Lisa. Welcome to my github account!

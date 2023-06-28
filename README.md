@@ -7,6 +7,4 @@
 </picture>
 
 
-## About me
 
-Hi, I'm Lisa. Welcome to my github account!
